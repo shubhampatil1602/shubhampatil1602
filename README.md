@@ -46,7 +46,7 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 
 ## Github Stats
 <p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=shubhampatil1602&theme=midnight-purple&theme=midnight-purple" style="margin-right:4px;">
+<img src="https://github-readme-stats.vercel.app/api?username=shubhampatil1602&theme=midnight-purple" style="margin-right:4px;">
 <img src="https://streak-stats.demolab.com/?user=shubhampatil1602&theme=holi-theme">
 </p>
 														 
